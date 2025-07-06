@@ -2,7 +2,9 @@
 
 ## I am a BIG tech enthusiast.
 
-** I have worked with...**
+## Star Project: EL1T3666
+
+**I have worked with...**
 - Python
 - Javascript
 - Java
@@ -10,5 +12,8 @@
 - CSS
 - C++ (Not very much.)
 - Bash
-** To make multiple projects. I know a little snippet of code in each :) **
+
+**To make multiple projects. I know a little snippet of code in each :)**
+
+
 
