@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, Im Spectre-SX 👋
+
+# Im a HUGE Tech enthusiast, and heres some things i like.
 
 <!--
 **Spectre-SX/Spectre-SX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
