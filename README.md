@@ -5,13 +5,9 @@
 ## Star Project: EL1T3666
 
 **I have worked with...**
-- Python
-- Javascript
-- Java
-- HTML
-- CSS
-- C++ (Not very much.)
-- Bash
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spectre-SX&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 **To make multiple projects. I know a little snippet of code in each :)**
 
