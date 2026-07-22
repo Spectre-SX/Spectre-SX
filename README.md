@@ -5,14 +5,12 @@
 ---
 
 ## About Me 🎯  
-I'm a passionate, self-taught developer grinding on projects mainly with HTML & CSS.  
-I believe the best way to learn is by trial and error — read a few docs, then dive right in! 🚀
+There's not really much to say except that I really like tech, oh and planes.
 
 ---
 
-## ⭐ Star Project: EL1T3666  
-Check out my star project where I bring my coding skills to life!  
-[EL1T3666 Repo](https://github.com/Spectre-SX/EL1T3666) (Soon to be public 👀)
+## ⭐ Star Project: Hyperion OS
+Just a... linux distro made from scratch with a custom package manager. 
 
 ---
 
@@ -36,9 +34,9 @@ Check out my star project where I bring my coding skills to life!
 ---
 
 ## 🚀 What I’m Currently Learning  
-- Advanced JavaScript (ES6+ features)  
-- React.js and front-end frameworks  
-- Responsive design & CSS Grid/Flexbox  
+- Java
+- Bash Code
+- Linux Filesystem Setup
 - Git and version control best practices  
 
 ---
@@ -55,11 +53,3 @@ Check out my star project where I bring my coding skills to life!
 <p align="center">
   <a href="https://twitter.com/Spectre_SX7" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Spectre_SX7-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
-
----
-
-## 🎉 Fun Facts  
-- I’m obsessed with planes ✈️ and aviation tech  
-- Music fuels my coding sessions 🎧 
-- Always down to learn new things and collab!
-
