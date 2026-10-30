@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<a href="https://github.com/Spectre-SX/aetherium"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aetherium-dark.svg"><img src="assets/project-aetherium-light.svg" width="49%" alt="aetherium"></picture></a>
+<a href="https://github.com/Spectre-SX/aetherium"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aetherium-dark.svg"><img src="assets/project-aetherium-light.svg" width="49%" alt="aetherium"></picture></a>&nbsp;<a href="https://github.com/Spectre-SX/sharperr.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sharperr-dev-dark.svg"><img src="assets/project-sharperr-dev-light.svg" width="49%" alt="sharperr.dev"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
