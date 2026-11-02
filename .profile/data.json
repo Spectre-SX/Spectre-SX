@@ -1,5 +1,5 @@
 {
- "key": "f35cb380",
+ "key": "d9078d41",
  "stars": 1,
  "contributions": 70,
  "repos": 6,
@@ -105,9 +105,13 @@
    {
     "c": 18,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
