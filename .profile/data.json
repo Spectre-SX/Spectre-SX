@@ -1,5 +1,5 @@
 {
- "key": "f816d321",
+ "key": "ddc1ace2",
  "stars": 1,
  "contributions": 71,
  "repos": 6,
@@ -110,9 +110,13 @@
    {
     "c": 1,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
