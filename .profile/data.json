@@ -1,5 +1,5 @@
 {
- "key": "ddc1ace2",
+ "key": "35509421",
  "stars": 1,
  "contributions": 71,
  "repos": 6,
@@ -115,16 +115,20 @@
    {
     "c": 0,
     "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 2
  },
  "pins": [
